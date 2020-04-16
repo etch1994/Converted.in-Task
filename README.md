@@ -4,7 +4,7 @@
 ## please find in this repository 9 files
 
 
-first and second one: '1)converted.in(Cleaning data & Modeling).html' & 
+first and second one: '1)converted.in(Cleaning data & Modeling).html' AND 
 '1)converted.in(Cleaning data & Modeling).ipynb', 
 this file contains Data assessing, Cleaning, Modeling with extentions(html, ipynb) 
 
@@ -12,7 +12,7 @@ this file contains Data assessing, Cleaning, Modeling with extentions(html, ipyn
 #######################################################################################
 
 
-third and fourth one: '2)converted.in(Correlations between  categoricl variables.html)' &
+third and fourth one: '2)converted.in(Correlations between  categoricl variables.html)' AND
 '2)converted.in(Correlations between  categoricl variables).ipynb', 
 this file contains the notebook code of handling categorical variables to get correlations with extentions(html, ipynb) 
 
