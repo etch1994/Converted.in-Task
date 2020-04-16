@@ -5,18 +5,14 @@
 
 
 first and second one: '1)converted.in(Cleaning data & Modeling).html' & 
-
 '1)converted.in(Cleaning data & Modeling).ipynb', 
-
 this file contains Data assessing, Cleaning, Modeling with extentions(html, ipynb) 
 
 
 
 
 third and fourth one: '2)converted.in(Correlations between  categoricl variables.html)' &
-
 '2)converted.in(Correlations between  categoricl variables).ipynb', 
-
 this file contains the notebook code of handling categorical variables to get correlations with extentions(html, ipynb) 
 
 
