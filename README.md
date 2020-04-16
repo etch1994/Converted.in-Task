@@ -4,19 +4,22 @@
 ## please find in this repository 6 folders:
 
 
-first one: '1) Data cleaning-Modeling', and this folder contains Data assessing, Cleaning, Modeling Code in extentions(html, md, py, ipynb)
+first and second one: '1)converted.in(Cleaning data & Modeling).html' & 
+'1)converted.in(Cleaning data & Modeling).ipynb', 
+this html file contains Data assessing, Cleaning, Modeling with extentions(html, ipynb) 
 
 
-second one: '2) Correlations between Categorical variables', and this file contains handling categorical variables to get correlations code  with extentions(html, md, py, ipynb)
+third and fourth one: '2)converted.in(Correlations between  categoricl variables.html)' & '2)converted.in(Correlations between  categoricl variables).ipynb', 
+this file contains the notebook code of handling categorical variables to get correlations with extentions(html, ipynb) 
 
 
-third one: Tableau presentation data, and this folder contains text file contains a link with a storey/prsentation of the data 
+fifth one: ' Tableau link.txt ',  this text file contains a link with a storey/prsentation of the data 
 
 
-fourth one: 'data', this folder contains the data file itself
+sixth one: ' convertedin USA Mobile App Data Small Sample.xlsx ', this file contains the data file itself
 
 
-fifth one: 'cleaned data', this folder contains the data file after cleaning
+seventh one: ' cleaneddf.xlsx ', this file contains the data file after cleaning
 
 
-sixth on: 'The Report', this folder contains the report of this project in extensions(Word, PDF)
+eighth on: ' Converted.in USA App Report.pdf ', this file contains the report of this project
