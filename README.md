@@ -1,7 +1,7 @@
 # Converted.in-Task
 ### USA Mobile App
 
-## please find in this repository 6 folders:
+## please find in this repository 9 files
 
 
 first and second one: '1)converted.in(Cleaning data & Modeling).html' & 
@@ -39,3 +39,9 @@ seventh one: ' cleaneddf.xlsx ', this file contains the data file after cleaning
 
 
 eighth on: ' Converted.in USA App Report.pdf ', this file contains the report of this project
+
+
+########################################################################################
+
+
+tenth one: 'Reade me' file
